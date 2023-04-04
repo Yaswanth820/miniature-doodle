@@ -1,0 +1,9 @@
+# Django dependencies
+Django==4.2
+djangorestframework==3.14.0
+django-filter==23.1
+
+# Web Scraping dependencies
+Scrapy==2.8.0
+scrapy_proxy_pool==0.1.7
+scrapy-user-agents==0.1.1
